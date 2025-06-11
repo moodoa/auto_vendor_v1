@@ -43,4 +43,4 @@
 2. stopcard_screenshots/：停發卡每一頁的截圖
 3. card_screenshots/：分類卡片每張的截圖
 
-logic.py 為程式邏輯作業答案
+logic.py 為程式邏輯作業答案，手動測試的部分因無過往經驗無法作答。
